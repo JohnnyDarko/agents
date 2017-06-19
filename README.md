@@ -16,5 +16,5 @@ example of nodes:
                 stay on course and provide stabilization.
 
     Autopilot: 
-                takes fastloop (inner loop) data and and data from guidance to provide 
+                takes fastloop (inner loop) data and data from guidance to provide 
                 heading lock, altitude lock etc.
