@@ -1,8 +1,8 @@
 #include <stdio.h>
-#include <Navigation.h>
+#include "Navigation.h"
 
 // Nodes
-#include <nodes/Gps.h>
+#include "Gps.h"
 
 
 Gps gps;
